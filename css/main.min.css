@@ -2858,6 +2858,11 @@ strong {
     display: block;
     text-align: center;
   }
+  .main-block .m-link {
+    margin-left: 0px !important;
+    position: relative;
+    top: 15px;
+  }
 }
 
 /*==========  Mobile First  ==========*/
